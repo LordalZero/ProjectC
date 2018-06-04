@@ -1,766 +1,787 @@
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 0
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Textures/SmartCrossHair/punto.uasset" 1
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset" 2
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Audio/SFX/TDReturn_Fixed.uasset" 3
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 4
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 5
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 6
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 7
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 8
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Spark_Core.uasset" 9
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Particles/Materials/M_Spark.uasset" 10
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Particles/P_TD_Sparks.uasset" 11
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Blueprints/TD_ReturnAnim.uasset" 12
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Blueprints/TextSystem/DataManager.uasset" 13
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Materials/M_TD_Cube.uasset" 14
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/PhysicalMaterials/TranslocatorDevice.uasset" 15
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Materials/M_TD_Inside.uasset" 16
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Materials/M_TD_Inside_Activated.uasset" 17
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Audio/SFX/TDOn_Fixed.uasset" 18
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Audio/SFX/TDOnCue.uasset" 19
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Materials/M_Basic_Wall.uasset" 20
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Shapes/Shape_Cube.uasset" 21
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Shapes/Shape_Sphere.uasset" 22
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Blueprints/TranslocatorDevice.uasset" 23
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Fonts/Montserrat-Regular.uasset" 24
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Fonts/Montserrat-Regular_Font.uasset" 25
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Blueprints/MyHud.uasset" 26
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Audio/SFX/CantTranslocate.uasset" 27
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Audio/SFX/ThrowTranslocatorDevice.uasset" 28
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Audio/SFX/Translocate.uasset" 29
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Audio/SFX/TranslocateCue.uasset" 30
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Fonts/Montserrat-Bold.uasset" 31
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Fonts/Montserrat-Bold_Font.uasset" 32
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Blueprints/PauseSystem/PauseMenu.uasset" 33
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Textures/SmartCrossHair/aumenta.uasset" 34
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" 35
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/Geometry/Meshes/CubeMaterial.uasset" 36
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/Geometry/Meshes/1M_Cube.uasset" 37
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 38
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/Blueprints/MovingPlatform.uasset" 39
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/Blueprints/SwitchDoor.uasset" 40
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset" 41
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/FirstPerson/Animations/FirstPerson_Fire.uasset" 42
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/FirstPerson/Animations/FirstPersonFire_Montage.uasset" 43
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/FirstPerson/Animations/FirstPerson_Idle.uasset" 44
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uasset" 45
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uasset" 46
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/FirstPerson/Animations/FirstPerson_JumpStart.uasset" 47
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/FirstPerson/Animations/FirstPerson_Run.uasset" 48
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset" 49
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset" 50
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 51
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 52
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 53
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 54
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 55
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 56
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 57
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset" 58
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 59
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 60
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 61
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 62
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset" 63
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 64
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset" 65
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset" 66
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset" 67
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 68
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset" 69
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 70
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 71
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 72
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 73
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 74
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 75
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 76
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 77
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/FirstPerson/FPWeapon/Textures/T_FPGun_M.uasset" 78
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/FirstPerson/FPWeapon/Textures/T_FPGun_N.uasset" 79
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset" 80
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" 81
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset" 82
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset" 83
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset" 84
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/FirstPerson/Meshes/BaseMaterial.uasset" 85
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset" 86
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset" 87
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset" 88
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Audio/SFX/BassDrop_Fixed.uasset" 89
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Audio/SFX/Crescendo.uasset" 90
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Blueprints/AutomaticPlatform.uasset" 91
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Blueprints/DoorOpen.uasset" 92
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Blueprints/MovingPlatform.uasset" 93
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Blueprints/PlatformSpawner.uasset" 94
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Blueprints/TranslocatorMenu.uasset" 95
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/ExternalCurves/FadeToTransparency.uasset" 96
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Textures/BasicGlassNormalMap.uasset" 97
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Materials/BasicGlass.uasset" 98
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Materials/TestGitMaterial.uasset" 99
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Materials/WhiteFoam.uasset" 100
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 101
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 102
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 103
-"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 104
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Meshes/cube_blender_import_test_2x2.uasset" 105
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Materials/BasicGlass01.uasset" 106
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Meshes/GlassTestMesh.uasset" 107
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Meshes/TestBrushConverted.uasset" 108
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Sequences/fader.uasset" 109
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Sequences/FadeWhite.uasset" 110
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Textures/Nebula.uasset" 111
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Textures/plutobump1k.uasset" 112
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Textures/AlienMetal/Abstract_005_OCC.uasset" 113
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 114
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/Geometry/Meshes/TemplateFloor.uasset" 115
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Architecture/Pillar_50x500.uasset" 116
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Architecture/Wall_400x300.uasset" 117
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Architecture/Wall_400x400.uasset" 118
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Architecture/Wall_500x500.uasset" 119
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 120
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 121
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Audio/Collapse01.uasset" 122
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Audio/Collapse02.uasset" 123
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Audio/Explosion01.uasset" 124
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Audio/Explosion02.uasset" 125
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Audio/Fire01.uasset" 126
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Audio/Fire_Sparks01.uasset" 127
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Audio/Light01.uasset" 128
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Audio/Light01_Cue.uasset" 129
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Audio/Light02.uasset" 130
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Audio/Light02_Cue.uasset" 131
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Audio/Smoke01.uasset" 132
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Audio/Starter_Birds01.uasset" 133
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Audio/Starter_Music01.uasset" 134
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Audio/Starter_Wind05.uasset" 135
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Audio/Starter_Wind06.uasset" 136
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Audio/Steam01.uasset" 137
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Audio/Explosion_Cue.uasset" 138
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Burst_M.uasset" 139
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Particles/Materials/M_Burst.uasset" 140
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 141
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 142
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 143
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Particles/P_Explosion.uasset" 144
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 145
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 146
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 147
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Bush_D.uasset" 148
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Bush_N.uasset" 149
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Props/Materials/M_Bush.uasset" 150
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Props/SM_Bush.uasset" 151
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Chair_M.uasset" 152
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Chair_N.uasset" 153
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Props/Materials/M_Chair.uasset" 154
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Props/SM_Couch.uasset" 155
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Materials/M_Glass.uasset" 156
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Door_M.uasset" 157
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Door_N.uasset" 158
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Props/Materials/M_Door.uasset" 159
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Props/SM_Door.uasset" 160
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 161
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 162
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 163
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 164
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 165
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_RockMesh_M.uasset" 166
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_RockMesh_N.uasset" 167
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Props/Materials/M_Rock.uasset" 168
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Props/SM_Rock.uasset" 169
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Shelf_M.uasset" 170
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Shelf_N.uasset" 171
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Props/Materials/M_Shelf.uasset" 172
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Props/SM_Shelf.uasset" 173
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Materials/M_Basic_Floor.uasset" 174
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Props/SM_Stairs.uasset" 175
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Shapes/Shape_Cone.uasset" 176
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 177
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Shapes/Shape_Pipe.uasset" 178
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 179
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 180
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Shapes/Shape_Plane.uasset" 181
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Shapes/Shape_Torus.uasset" 182
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Shapes/Shape_Trim.uasset" 183
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 184
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 185
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 186
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Shapes/Shape_Tube.uasset" 187
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 188
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 189
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 190
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/TEST/Pasadiso.uasset" 191
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/TEST/Test_01/Pasadiso_Plane_albedo.uasset" 192
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/TEST/Test_01/Pasadiso_Plane_ao.uasset" 193
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/TEST/Test_01/Pasadiso_Plane_metallic.uasset" 194
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/TEST/Test_01/Pasadiso_Plane_normal.uasset" 195
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/TEST/Test_01/Pasadiso_Plane_roughness.uasset" 196
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/TEST/Test_01/Mat_01.uasset" 197
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/TEST/Test_02/Emisive.uasset" 198
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/TEST/Test_02/Pasadiso_Plane_albedo.uasset" 199
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/TEST/Test_02/Pasadiso_Plane_ao.uasset" 200
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/TEST/Test_02/Pasadiso_Plane_metallic.uasset" 201
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/TEST/Test_02/Pasadiso_Plane_normal.uasset" 202
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/TEST/Test_02/Pasadiso_Plane_roughness.uasset" 203
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/TEST/Test_02/Pasadiso_Plane_specular.uasset" 204
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/TEST/Test_02/Mat_02.uasset" 205
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/TEST/Test_02/Mat_03.uasset" 206
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/TEST/Test_02/Mat_04.uasset" 207
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/TEST/Test_02/Mat_05.uasset" 208
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/TEST/Test_02/Mat_06.uasset" 209
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/Test_Materials/Component_Material/01/Plane_albedo.uasset" 210
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/Test_Materials/Component_Material/01/Plane_gloss.uasset" 211
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/Test_Materials/Component_Material/01/Plane_normal.uasset" 212
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/Test_Materials/Component_Material/01/Plane_roughness.uasset" 213
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/Test_Materials/Component_Material/01/Plane_specular.uasset" 214
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/Test_Materials/Test_Material_01.uasset" 215
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/Test_Materials/Component_Material/02/Plane_albedo.uasset" 216
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/Test_Materials/Component_Material/02/Plane_normal.uasset" 217
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/Test_Materials/Component_Material/02/Plane_roughness.uasset" 218
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/Test_Materials/Component_Material/02/Plane_specular.uasset" 219
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/Test_Materials/Test_Material_02.uasset" 220
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/Test_Materials/Component_Material/03/Plane__Gloss_.uasset" 221
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/Test_Materials/Component_Material/03/Plane_albedo.uasset" 222
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/Test_Materials/Component_Material/03/Plane_normal.uasset" 223
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/Test_Materials/Component_Material/03/Plane_roughness.uasset" 224
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/Test_Materials/Component_Material/03/Plane_specular.uasset" 225
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/Test_Materials/Test_Material_03.uasset" 226
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/Test_Materials/Component_Material/04/Plane__Gloss_.uasset" 227
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/Test_Materials/Component_Material/04/Plane_albedo.uasset" 228
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/Test_Materials/Component_Material/04/Plane_normal.uasset" 229
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/Test_Materials/Component_Material/04/Plane_roughness.uasset" 230
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/Test_Materials/Component_Material/04/Plane_specular.uasset" 231
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/Test_Materials/Test_Material_04.uasset" 232
-"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 233
-"../../../Engine/Content/BasicShapes/Cone.uasset" 234
-"../../../Engine/Content/BasicShapes/Plane.uasset" 235
-"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 236
-"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 237
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 238
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 239
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 240
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 241
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 242
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 243
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 244
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 245
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 246
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 247
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 248
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 249
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 250
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 251
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 252
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 253
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 254
-"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 255
-"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 256
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 257
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 258
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 259
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 260
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 261
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 262
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 263
-"../../../Engine/Content/EditorResources/EmptyActor.uasset" 264
-"../../../Engine/Content/EditorResources/S_Actor.uasset" 265
-"../../../Engine/Content/EditorResources/S_Trigger.uasset" 266
-"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 267
-"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 268
-"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 269
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 270
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 271
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 272
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 273
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 274
-"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 275
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 276
-"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 277
-"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 278
-"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 279
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 280
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 281
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 282
-"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 283
-"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 284
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 285
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 286
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 287
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 288
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 289
-"../../../Engine/Content/EngineFonts/Roboto.uasset" 290
-"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 291
-"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 292
-"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 293
-"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 294
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 295
-"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 296
-"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 297
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 298
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 299
-"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 300
-"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 301
-"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 302
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 303
-"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 304
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 305
-"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 306
-"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 307
-"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 308
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 309
-"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 310
-"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 311
-"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 312
-"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 313
-"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 314
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 315
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 316
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 317
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 318
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 319
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 320
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 321
-"../../../Engine/Content/EngineMeshes/Cube.uasset" 322
-"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 323
-"../../../Engine/Content/EngineResources/Black.uasset" 324
-"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 325
-"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 326
-"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 327
-"../../../Engine/Content/EngineSounds/Master.uasset" 328
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 329
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 330
-"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 331
-"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 332
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 333
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 334
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 335
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 336
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 337
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 338
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 339
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 340
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 341
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 342
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 343
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 344
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 345
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 346
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 347
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 348
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 349
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 350
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 351
-"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 352
-"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 353
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintInterface_64x.uasset" 354
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintMacroLibrary_64x.uasset" 355
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 356
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 357
-"../../../Engine/Content/Tutorial/Foliage/TutorialAssets/Foliage.uasset" 358
-"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 359
-"../../../Engine/Content/Tutorial/Mobile/TutorialAssets/IOS.uasset" 360
-"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DFlipbook_TutorialIcon.uasset" 361
-"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DSprite_TutorialIcon.uasset" 362
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset" 363
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_ShowSkeletalMeshes_40x.uasset" 364
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 365
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8.uasset" 366
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_soft_smoke.uasset" 367
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset" 368
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset" 369
-"../../../Engine/Content/VREditor/Devices/Generic/GenericHMDMaterial.uasset" 370
-"../../../Engine/Content/VREditor/Devices/Generic/GenericHMD.uasset" 371
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 372
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksB.uasset" 373
-"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMaterial.uasset" 374
-"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMaterial_Inst.uasset" 375
-"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMesh.uasset" 376
-"../../../Engine/Content/VREditor/Devices/Vive/T_VivePreController_EM.uasset" 377
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksA.uasset" 378
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerDiffuse.uasset" 379
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerSpec.uasset" 380
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 381
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial.uasset" 382
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial_Inst.uasset" 383
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMesh.uasset" 384
-"../../../Engine/Content/VREditor/FloatingText/LineMaterial.uasset" 385
-"../../../Engine/Content/VREditor/FloatingText/JointSphere.uasset" 386
-"../../../Engine/Content/VREditor/FloatingText/LineSegmentCylinder.uasset" 387
-"../../../Engine/Content/VREditor/Fonts/VRText_RobotoLarge.uasset" 388
-"../../../Engine/Content/VREditor/Fonts/VRTextMaterial.uasset" 389
-"../../../Engine/Content/VREditor/Fonts/TranslucentVRTextMaterial.uasset" 390
-"../../../Engine/Content/VREditor/LaserPointer/CursorPointer.uasset" 391
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 392
-"../../../Engine/Content/VREditor/LaserPointer/HoverMaterial.uasset" 393
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 394
-"../../../Engine/Content/VREditor/LaserPointer/TranslucentHoverMaterial.uasset" 395
-"../../../Engine/Content/VREditor/LaserPointer/HoverMesh.uasset" 396
-"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterial.uasset" 397
-"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterialInst.uasset" 398
-"../../../Engine/Content/VREditor/LaserPointer/TranslucentLaserPointerMaterialInst.uasset" 399
-"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh.uasset" 400
-"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh_End.uasset" 401
-"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh_Start.uasset" 402
-"../../../Engine/Content/VREditor/Sounds/VR_teleport.uasset" 403
-"../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button.uasset" 404
-"../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button_Cue.uasset" 405
-"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Close.uasset" 406
-"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Drop.uasset" 407
-"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Open.uasset" 408
-"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Pick_Up.uasset" 409
-"../../../Engine/Content/VREditor/Sounds/UI/Drop_Item_From_ContentBrowser.uasset" 410
-"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Open-001.uasset" 411
-"../../../Engine/Content/VREditor/Sounds/UI/Radial_Menu_FadeOut.uasset" 412
-"../../../Engine/Content/VREditor/Sounds/UI/Teleport_Mode_Entered.uasset" 413
-"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMaterial.uasset" 414
-"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMaterial_Inst.uasset" 415
-"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMesh.uasset" 416
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 417
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 418
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 419
-"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 420
-"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 421
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Close.uasset" 422
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Move.uasset" 423
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 424
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 425
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial_Inst.uasset" 426
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial_Inst.uasset" 427
-"../../../Engine/Content/VREditor/Devices/Vive/UE4_Logo.uasset" 428
-"../../../Engine/Content/VREditor/UI/M_ContentWindow.uasset" 429
-"../../../Engine/Content/VREditor/UI/SM_ContentWindow_01.uasset" 430
-"../../../Engine/Content/VREditor/UI/KeyDiskMaterial.uasset" 431
-"../../../Engine/Content/VREditor/UI/DiscMaterial.uasset" 432
-"../../../Engine/Content/VREditor/UI/SM_Radial_Disk.uasset" 433
-"../../../Engine/Content/VREditor/UI/ArrowMaterial.uasset" 434
-"../../../Engine/Content/VREditor/UI/SM_Radial_Pointer.uasset" 435
-"../../../Engine/Content/VREditor/WorldMovementGrid/SimpleGrid.uasset" 436
-"../../../Engine/Content/VREditor/WorldMovementGrid/GridMaterial.uasset" 437
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 438
-"../../../Engine/Content/VREditor/WorldMovementGrid/GridPostProcess.uasset" 439
-"../../../Engine/Content/EditorLandscapeResources/FlattenHeightMat.uasset" 440
-"../../../Engine/Content/VREditor/WorldMovementGrid/PlaneMesh.uasset" 441
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 442
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 443
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 444
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 445
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 446
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 447
-"../../Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneTexture.uasset" 448
-"../../Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneMaterial.uasset" 449
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uasset" 450
-"../../Plugins/Runtime/AppleARKit/Content/ARKitCameraMaterial.uasset" 451
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 452
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 453
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 454
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 455
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 456
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 457
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 458
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 459
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 460
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 461
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 462
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 463
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 464
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 465
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Blueprints/LaserMejorado.uasset" 466
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Blueprints/SlowMotionTrigger.uasset" 467
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/aaa_BuiltData.uasset" 468
-"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 469
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/aaa.umap" 470
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" 471
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Blueprints/CheckPoint.uasset" 472
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Blueprints/SwitchDoor.uasset" 473
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Blueprints/TextSystem/TextSystemTest.uasset" 474
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Blueprints/TextSystem/TextTrigger.uasset" 475
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset" 476
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/FirstPerson/Meshes/CubeMaterialOverride.uasset" 477
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" 478
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/FirstPersonBP/Maps/Go2.umap" 479
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Blueprints/Capture/MainMenu.umap" 480
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Blueprints/Capture/StudioMaterial.uasset" 481
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Materials/ChromaticBlackFloor.uasset" 482
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 483
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Blueprints/Capture/TextureRenderTarget.uasset" 484
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Architecture/Floor_400x400.uasset" 485
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Blueprints/Capture/CaptureBlueprint.uasset" 486
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Blueprints/Capture/Other/MainMenuTest_BuiltData.uasset" 487
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Audio/Music/MainTrack_Fixed.uasset" 488
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Blueprints/Capture/Other/Fader.uasset" 489
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Blueprints/Capture/CapturedMaterial.uasset" 490
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Textures/AlienMetal/Abstract_005_NORM.uasset" 491
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Textures/AlienMetal/Abstract_005_SPEC.uasset" 492
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Blueprints/Capture/Other/LevelSelect.uasset" 493
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Blueprints/Capture/Other/MainM.uasset" 494
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Blueprints/Capture/Other/MainMenuTest.umap" 495
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Blueprints/SkyboxSpace.uasset" 496
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Blueprints/EndScreenHud.uasset" 497
-"../../../Engine/Content/EngineMeshes/Sphere.uasset" 498
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Blueprints/MenuPawn.uasset" 499
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/MenuGameMode.uasset" 500
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Levels/EndScreen_BuiltData.uasset" 501
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Textures/Nebula4K.uasset" 502
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Materials/SkyboxSpaceMaterial.uasset" 503
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Audio/Music/MainTrackCue.uasset" 504
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Levels/EndScreen.umap" 505
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/Blueprints/DoorOpen.uasset" 506
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 507
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Materials/TestGlow.uasset" 508
-"../../../Engine/Content/BasicShapes/Cube.uasset" 509
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/Blueprints/Laserq.uasset" 510
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/ExternalCurves/DoorDown.uasset" 511
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/ExternalCurves/DoorUp.uasset" 512
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Levels/Gemu_BuiltData.uasset" 513
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Materials/BasicMetal.uasset" 514
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Materials/BlueGlow.uasset" 515
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Materials/ChromaticWhiteFloor.uasset" 516
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Materials/ChromaticWhiteWall.uasset" 517
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Textures/AlienMetal/Abstract_005_COLOR.uasset" 518
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Textures/AlienMetal/Abstract_005_DISP.uasset" 519
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Materials/M_AlienMetal.uasset" 520
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Materials/MateBlackWalls.uasset" 521
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Textures/Plastic_001_ROUGH.uasset" 522
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Materials/OrangeBasic.uasset" 523
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Materials/OrangeGlow.uasset" 524
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Textures/plutomap1k.uasset" 525
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Materials/Planet01.uasset" 526
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Materials/RedButton.uasset" 527
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Materials/WhiteGlow.uasset" 528
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Materials/WhitePlastic.uasset" 529
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Materials/WhiteWalls.uasset" 530
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Materials/WhiteWalls1.uasset" 531
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/Test_Materials/Component_Material/05/Plane__Gloss_.uasset" 532
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/Test_Materials/Component_Material/05/Plane_albedo.uasset" 533
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/Test_Materials/Component_Material/05/Plane_normal.uasset" 534
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/Test_Materials/Component_Material/05/Plane_roughness.uasset" 535
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/Test_Materials/Component_Material/05/Plane_specular.uasset" 536
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/Test_Materials/Test_Material_05.uasset" 537
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Fresnel_Function.uasset" 538
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Materials/BasicGlass02.uasset" 539
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Materials/BasicGlassInstance.uasset" 540
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 541
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Audio/Music/End_Fixed.uasset" 542
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Audio/Music/EndTrackCue.uasset" 543
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Meshes/CargoBayGlassWall01.uasset" 544
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Meshes/CorridorDoorDown.uasset" 545
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Meshes/CorridorDoorUp.uasset" 546
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Meshes/CorridorLightRect_600.uasset" 547
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Meshes/CorridorLightRect_Medium.uasset" 548
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Meshes/WhiteRoom_Ceiling.uasset" 549
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Textures/Wood_Diffuse_1k.uasset" 550
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Textures/Wood_Normal_1k.uasset" 551
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Textures/Wood_Specular_1k.uasset" 552
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Materials/DarkWood.uasset" 553
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Meshes/WhiteRoom_Floor.uasset" 554
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Meshes/WhiteRoom_Wall_Back.uasset" 555
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Meshes/WhiteRoom_Wall_Left.uasset" 556
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Meshes/WhiteRoom_Wall_Right.uasset" 557
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Frame_M.uasset" 558
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Frame_N.uasset" 559
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Props/Materials/M_Frame.uasset" 560
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Props/SM_DoorFrame.uasset" 561
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Lamp_M.uasset" 562
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Lamp_N.uasset" 563
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Props/Materials/M_Lamp.uasset" 564
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 565
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/Test_Materials/test.uasset" 566
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Levels/Gemu.umap" 567
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Levels/LevelTemplate_BuiltData.uasset" 568
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Levels/LevelTemplate.umap" 569
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Levels/MainMenu_BuiltData.uasset" 570
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Levels/MainMenu.umap" 571
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Blueprints/Laser.uasset" 572
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/GameContent/Blueprints/MovingPlatfromNoButton.uasset" 573
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/Levels/DelcioLevel_BuiltData.uasset" 574
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 575
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 576
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Gradinet_01.uasset" 577
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 578
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 579
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/Levels/DelcioLevel.umap" 580
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 581
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 582
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 583
-"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 584
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 585
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 586
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 587
-"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 588
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 589
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 590
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 591
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 592
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 593
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Materials/M_AssetPlatform.uasset" 594
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 595
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 596
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 597
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 598
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 599
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 600
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 601
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 602
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Maps/Advanced_Lighting.umap" 603
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 604
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_MacroVariation.uasset" 605
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 606
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 607
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 608
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 609
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 610
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Materials/M_Metal_Copper.uasset" 611
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Statue_M.uasset" 612
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Statue_N.uasset" 613
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 614
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 615
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Props/SM_Chair.uasset" 616
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Props/Materials/M_Statue.uasset" 617
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Props/SM_Statue.uasset" 618
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_TableRound_M.uasset" 619
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_TableRound_N.uasset" 620
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Props/Materials/M_TableRound.uasset" 621
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Props/SM_TableRound.uasset" 622
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Maps/Minimal_Default.umap" 623
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Audio/Fire01_Cue.uasset" 624
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 625
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 626
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 627
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Water_N.uasset" 628
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 629
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 630
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Particles/P_Fire.uasset" 631
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 632
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Audio/Smoke01_Cue.uasset" 633
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Particles/P_Smoke.uasset" 634
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 635
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 636
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Particles/P_Sparks.uasset" 637
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 638
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Audio/Steam01_Cue.uasset" 639
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Particles/P_Steam_Lit.uasset" 640
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 641
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 642
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 643
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 644
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 645
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 646
-"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 647
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 648
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 649
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 650
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 651
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 652
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 653
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 654
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 655
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 656
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 657
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 658
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 659
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 660
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 661
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 662
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 663
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 664
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 665
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 666
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 667
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 668
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 669
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 670
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 671
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 672
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 673
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 674
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 675
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 676
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 677
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 678
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 679
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 680
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 681
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 682
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 683
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 684
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 685
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 686
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 687
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 688
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 689
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 690
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 691
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 692
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 693
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 694
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Materials/M_Ground_Grass.uasset" 695
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 696
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 697
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 698
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 699
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 700
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Materials/M_Ground_Moss.uasset" 701
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 702
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 703
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Materials/M_Metal_Gold.uasset" 704
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 705
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Materials/M_Metal_Rust.uasset" 706
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 707
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 708
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Materials/M_Metal_Steel.uasset" 709
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 710
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 711
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 712
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 713
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 714
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 715
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 716
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 717
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Materials/M_Rock_Slate.uasset" 718
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 719
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 720
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 721
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 722
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 723
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 724
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 725
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 726
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 727
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 728
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 729
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Materials/M_Tech_Panel.uasset" 730
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Materials/M_Water_Lake.uasset" 731
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Water_M.uasset" 732
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Materials/M_Water_Ocean.uasset" 733
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 734
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 735
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 736
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 737
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 738
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 739
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 740
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 741
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Materials/M_Wood_Oak.uasset" 742
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 743
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 744
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Materials/M_Wood_Pine.uasset" 745
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 746
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 747
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 748
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Architecture/Wall_400x200.uasset" 749
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 750
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 751
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Audio/Collapse_Cue.uasset" 752
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 753
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 754
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 755
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 756
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Props/MaterialSphere.uasset" 757
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Props/SM_CornerFrame.uasset" 758
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Props/SM_GlassWindow.uasset" 759
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Props/SM_PillarFrame.uasset" 760
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Props/SM_PillarFrame300.uasset" 761
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Props/SM_WindowFrame.uasset" 762
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 763
-"../../../../../../Users/sebas/OneDrive/Escritorio/ProjectC/Content/StarterContent/Maps/StarterMap.umap" 764
-"../../../Engine/Content/Maps/Entry.umap" 765
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 0
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 1
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 2
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 3
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/Test_M.uasset" 4
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 5
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Textures/SmartCrossHair/punto.uasset" 6
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset" 7
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Audio/SFX/TDReturn_Fixed.uasset" 8
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 9
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 10
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 11
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 12
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 13
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Spark_Core.uasset" 14
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Particles/Materials/M_Spark.uasset" 15
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Particles/P_TD_Sparks.uasset" 16
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Blueprints/TD_ReturnAnim.uasset" 17
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Blueprints/TextSystem/DataManager.uasset" 18
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Materials/M_TD_Cube.uasset" 19
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/PhysicalMaterials/TranslocatorDevice.uasset" 20
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Materials/M_TD_Inside.uasset" 21
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Materials/M_TD_Inside_Activated.uasset" 22
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Audio/SFX/TDOn_Fixed.uasset" 23
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Audio/SFX/TDOnCue.uasset" 24
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Materials/M_Basic_Wall.uasset" 25
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Shapes/Shape_Cube.uasset" 26
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Shapes/Shape_Sphere.uasset" 27
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Blueprints/TranslocatorDevice.uasset" 28
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Fonts/Montserrat-Regular.uasset" 29
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Fonts/Montserrat-Regular_Font.uasset" 30
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Blueprints/MyHud.uasset" 31
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Audio/SFX/CantTranslocate.uasset" 32
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Audio/SFX/ThrowTranslocatorDevice.uasset" 33
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Audio/SFX/Translocate.uasset" 34
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Audio/SFX/TranslocateCue.uasset" 35
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Fonts/Montserrat-Bold.uasset" 36
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Fonts/Montserrat-Bold_Font.uasset" 37
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Blueprints/PauseSystem/AudioMenu.uasset" 38
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Blueprints/PauseSystem/OptionsMenu.uasset" 39
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Blueprints/PauseSystem/PauseMenu.uasset" 40
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Textures/SmartCrossHair/aumenta.uasset" 41
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" 42
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/Geometry/Meshes/CubeMaterial.uasset" 43
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/Geometry/Meshes/1M_Cube.uasset" 44
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 45
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/Blueprints/MovingPlatform.uasset" 46
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/Blueprints/SwitchDoor.uasset" 47
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset" 48
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/FirstPerson/Animations/FirstPerson_Fire.uasset" 49
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/FirstPerson/Animations/FirstPersonFire_Montage.uasset" 50
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/FirstPerson/Animations/FirstPerson_Idle.uasset" 51
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uasset" 52
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uasset" 53
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/FirstPerson/Animations/FirstPerson_JumpStart.uasset" 54
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/FirstPerson/Animations/FirstPerson_Run.uasset" 55
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset" 56
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset" 57
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 58
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 59
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 60
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 61
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 62
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 63
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 64
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset" 65
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 66
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 67
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 68
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 69
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset" 70
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 71
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset" 72
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset" 73
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset" 74
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 75
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset" 76
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 77
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 78
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 79
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 80
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 81
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 82
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 83
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 84
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/FirstPerson/FPWeapon/Textures/T_FPGun_M.uasset" 85
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/FirstPerson/FPWeapon/Textures/T_FPGun_N.uasset" 86
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset" 87
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" 88
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset" 89
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset" 90
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset" 91
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/FirstPerson/Meshes/BaseMaterial.uasset" 92
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset" 93
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset" 94
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset" 95
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Audio/SFX/BassDrop_Fixed.uasset" 96
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Audio/SFX/Crescendo.uasset" 97
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Blueprints/AutomaticPlatform.uasset" 98
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Blueprints/DoorOpen.uasset" 99
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Blueprints/MovingPlatform.uasset" 100
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Blueprints/PlatformSpawner.uasset" 101
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Blueprints/TranslocatorMenu.uasset" 102
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Blueprints/Effects/SlowMotionTrigger.uasset" 103
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/ExternalCurves/FadeToTransparency.uasset" 104
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Textures/BasicGlassNormalMap.uasset" 105
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Materials/BasicGlass.uasset" 106
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Materials/MateGrey.uasset" 107
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Materials/TestGitMaterial.uasset" 108
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Materials/WhiteFoam.uasset" 109
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Meshes/Box3.uasset" 110
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Meshes/Chair1.uasset" 111
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Meshes/cube_blender_import_test_2x2.uasset" 112
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Meshes/extinguisher.uasset" 113
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Materials/BasicGlass01.uasset" 114
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Meshes/GlassTestMesh.uasset" 115
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Meshes/Rubble1.uasset" 116
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Meshes/Rubble2.uasset" 117
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Meshes/Rubble3.uasset" 118
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Meshes/Rubble6.uasset" 119
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Meshes/TestBrushConverted.uasset" 120
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Meshes/Test_M.uasset" 121
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Meshes/torre.uasset" 122
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Sequences/fader.uasset" 123
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Sequences/FadeWhite.uasset" 124
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Textures/Nebula.uasset" 125
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Textures/plutobump1k.uasset" 126
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Textures/AlienMetal/Abstract_005_OCC.uasset" 127
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 128
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/Geometry/Meshes/TemplateFloor.uasset" 129
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Architecture/Pillar_50x500.uasset" 130
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Architecture/Wall_400x300.uasset" 131
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Architecture/Wall_400x400.uasset" 132
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Architecture/Wall_500x500.uasset" 133
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 134
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 135
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Audio/Collapse01.uasset" 136
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Audio/Collapse02.uasset" 137
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Audio/Explosion01.uasset" 138
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Audio/Explosion02.uasset" 139
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Audio/Fire01.uasset" 140
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Audio/Fire_Sparks01.uasset" 141
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Audio/Light01.uasset" 142
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Audio/Light01_Cue.uasset" 143
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Audio/Light02.uasset" 144
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Audio/Light02_Cue.uasset" 145
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Audio/Smoke01.uasset" 146
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Audio/Starter_Birds01.uasset" 147
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Audio/Starter_Music01.uasset" 148
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Audio/Starter_Wind05.uasset" 149
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Audio/Starter_Wind06.uasset" 150
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Audio/Steam01.uasset" 151
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Audio/Explosion_Cue.uasset" 152
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Burst_M.uasset" 153
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Particles/Materials/M_Burst.uasset" 154
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 155
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 156
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 157
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Particles/P_Explosion.uasset" 158
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 159
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 160
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 161
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Bush_D.uasset" 162
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Bush_N.uasset" 163
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Props/Materials/M_Bush.uasset" 164
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Props/SM_Bush.uasset" 165
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Chair_M.uasset" 166
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Chair_N.uasset" 167
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Props/Materials/M_Chair.uasset" 168
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Props/SM_Couch.uasset" 169
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Materials/M_Glass.uasset" 170
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Door_M.uasset" 171
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Door_N.uasset" 172
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Props/Materials/M_Door.uasset" 173
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Props/SM_Door.uasset" 174
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 175
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 176
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 177
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 178
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 179
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_RockMesh_M.uasset" 180
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_RockMesh_N.uasset" 181
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Props/Materials/M_Rock.uasset" 182
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Props/SM_Rock.uasset" 183
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Shelf_M.uasset" 184
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Shelf_N.uasset" 185
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Props/Materials/M_Shelf.uasset" 186
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Props/SM_Shelf.uasset" 187
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Materials/M_Basic_Floor.uasset" 188
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Props/SM_Stairs.uasset" 189
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Shapes/Shape_Cone.uasset" 190
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 191
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Shapes/Shape_Pipe.uasset" 192
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 193
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 194
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Shapes/Shape_Plane.uasset" 195
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Shapes/Shape_Torus.uasset" 196
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Shapes/Shape_Trim.uasset" 197
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 198
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 199
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 200
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Shapes/Shape_Tube.uasset" 201
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 202
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 203
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 204
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/TEST/Pasadiso.uasset" 205
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/TEST/Test_01/Pasadiso_Plane_albedo.uasset" 206
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/TEST/Test_01/Pasadiso_Plane_ao.uasset" 207
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/TEST/Test_01/Pasadiso_Plane_metallic.uasset" 208
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/TEST/Test_01/Pasadiso_Plane_normal.uasset" 209
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/TEST/Test_01/Pasadiso_Plane_roughness.uasset" 210
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/TEST/Test_01/Mat_01.uasset" 211
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/TEST/Test_02/Emisive.uasset" 212
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/TEST/Test_02/Pasadiso_Plane_albedo.uasset" 213
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/TEST/Test_02/Pasadiso_Plane_ao.uasset" 214
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/TEST/Test_02/Pasadiso_Plane_metallic.uasset" 215
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/TEST/Test_02/Pasadiso_Plane_normal.uasset" 216
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/TEST/Test_02/Pasadiso_Plane_roughness.uasset" 217
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/TEST/Test_02/Pasadiso_Plane_specular.uasset" 218
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/TEST/Test_02/Mat_02.uasset" 219
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/TEST/Test_02/Mat_03.uasset" 220
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/TEST/Test_02/Mat_04.uasset" 221
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/TEST/Test_02/Mat_05.uasset" 222
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/TEST/Test_02/Mat_06.uasset" 223
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/Test_Materials/Component_Material/01/Plane_albedo.uasset" 224
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/Test_Materials/Component_Material/01/Plane_gloss.uasset" 225
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/Test_Materials/Component_Material/01/Plane_normal.uasset" 226
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/Test_Materials/Component_Material/01/Plane_roughness.uasset" 227
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/Test_Materials/Component_Material/01/Plane_specular.uasset" 228
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/Test_Materials/Test_Material_01.uasset" 229
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/Test_Materials/Component_Material/02/Plane_albedo.uasset" 230
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/Test_Materials/Component_Material/02/Plane_normal.uasset" 231
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/Test_Materials/Component_Material/02/Plane_roughness.uasset" 232
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/Test_Materials/Component_Material/02/Plane_specular.uasset" 233
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/Test_Materials/Test_Material_02.uasset" 234
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/Test_Materials/Component_Material/03/Plane__Gloss_.uasset" 235
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/Test_Materials/Component_Material/03/Plane_albedo.uasset" 236
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/Test_Materials/Component_Material/03/Plane_normal.uasset" 237
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/Test_Materials/Component_Material/03/Plane_roughness.uasset" 238
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/Test_Materials/Component_Material/03/Plane_specular.uasset" 239
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/Test_Materials/Test_Material_03.uasset" 240
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/Test_Materials/Component_Material/04/Plane__Gloss_.uasset" 241
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/Test_Materials/Component_Material/04/Plane_albedo.uasset" 242
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/Test_Materials/Component_Material/04/Plane_normal.uasset" 243
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/Test_Materials/Component_Material/04/Plane_roughness.uasset" 244
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/Test_Materials/Component_Material/04/Plane_specular.uasset" 245
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/Test_Materials/Test_Material_04.uasset" 246
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 247
+"../../../Engine/Content/BasicShapes/Cone.uasset" 248
+"../../../Engine/Content/BasicShapes/Plane.uasset" 249
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 250
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 251
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 252
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 253
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 254
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 255
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 256
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 257
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 258
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 259
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 260
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 261
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 262
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 263
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 264
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 265
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 266
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 267
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 268
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 269
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 270
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 271
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 272
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 273
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 274
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 275
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 276
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 277
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 278
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 279
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 280
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 281
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 282
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 283
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 284
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 285
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 286
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 287
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 288
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 289
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 290
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 291
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 292
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 293
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 294
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 295
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 296
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 297
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 298
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 299
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 300
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 301
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 302
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 303
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 304
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 305
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 306
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 307
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 308
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 309
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 310
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 311
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 312
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 313
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 314
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 315
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 316
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 317
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 318
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 319
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 320
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 321
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 322
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 323
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 324
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 325
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 326
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 327
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 328
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 329
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 330
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 331
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 332
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 333
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 334
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 335
+"../../../Engine/Content/EngineMeshes/Cube.uasset" 336
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 337
+"../../../Engine/Content/EngineResources/Black.uasset" 338
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 339
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 340
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 341
+"../../../Engine/Content/EngineSounds/Master.uasset" 342
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 343
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 344
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 345
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 346
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 347
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 348
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 349
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 350
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 351
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 352
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 353
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 354
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 355
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 356
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 357
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 358
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 359
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 360
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 361
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 362
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 363
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 364
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 365
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 366
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 367
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintInterface_64x.uasset" 368
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintMacroLibrary_64x.uasset" 369
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 370
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 371
+"../../../Engine/Content/Tutorial/Foliage/TutorialAssets/Foliage.uasset" 372
+"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 373
+"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DFlipbook_TutorialIcon.uasset" 374
+"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DSprite_TutorialIcon.uasset" 375
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset" 376
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_ShowSkeletalMeshes_40x.uasset" 377
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 378
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8.uasset" 379
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_soft_smoke.uasset" 380
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset" 381
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset" 382
+"../../../Engine/Content/VREditor/Devices/Generic/GenericHMDMaterial.uasset" 383
+"../../../Engine/Content/VREditor/Devices/Generic/GenericHMD.uasset" 384
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 385
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksB.uasset" 386
+"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMaterial.uasset" 387
+"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMaterial_Inst.uasset" 388
+"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMesh.uasset" 389
+"../../../Engine/Content/VREditor/Devices/Vive/T_VivePreController_EM.uasset" 390
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksA.uasset" 391
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerDiffuse.uasset" 392
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerSpec.uasset" 393
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 394
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial.uasset" 395
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial_Inst.uasset" 396
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMesh.uasset" 397
+"../../../Engine/Content/VREditor/FloatingText/LineMaterial.uasset" 398
+"../../../Engine/Content/VREditor/FloatingText/JointSphere.uasset" 399
+"../../../Engine/Content/VREditor/FloatingText/LineSegmentCylinder.uasset" 400
+"../../../Engine/Content/VREditor/Fonts/VRText_RobotoLarge.uasset" 401
+"../../../Engine/Content/VREditor/Fonts/VRTextMaterial.uasset" 402
+"../../../Engine/Content/VREditor/Fonts/TranslucentVRTextMaterial.uasset" 403
+"../../../Engine/Content/VREditor/LaserPointer/CursorPointer.uasset" 404
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 405
+"../../../Engine/Content/VREditor/LaserPointer/HoverMaterial.uasset" 406
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 407
+"../../../Engine/Content/VREditor/LaserPointer/TranslucentHoverMaterial.uasset" 408
+"../../../Engine/Content/VREditor/LaserPointer/HoverMesh.uasset" 409
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterial.uasset" 410
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterialInst.uasset" 411
+"../../../Engine/Content/VREditor/LaserPointer/TranslucentLaserPointerMaterialInst.uasset" 412
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh.uasset" 413
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh_End.uasset" 414
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh_Start.uasset" 415
+"../../../Engine/Content/VREditor/Sounds/VR_teleport.uasset" 416
+"../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button.uasset" 417
+"../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button_Cue.uasset" 418
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Close.uasset" 419
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Drop.uasset" 420
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Open.uasset" 421
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Pick_Up.uasset" 422
+"../../../Engine/Content/VREditor/Sounds/UI/Drop_Item_From_ContentBrowser.uasset" 423
+"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Open-001.uasset" 424
+"../../../Engine/Content/VREditor/Sounds/UI/Radial_Menu_FadeOut.uasset" 425
+"../../../Engine/Content/VREditor/Sounds/UI/Teleport_Mode_Entered.uasset" 426
+"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMaterial.uasset" 427
+"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMaterial_Inst.uasset" 428
+"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMesh.uasset" 429
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 430
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 431
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 432
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 433
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 434
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Close.uasset" 435
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Move.uasset" 436
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 437
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 438
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial_Inst.uasset" 439
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial_Inst.uasset" 440
+"../../../Engine/Content/VREditor/Devices/Vive/UE4_Logo.uasset" 441
+"../../../Engine/Content/VREditor/UI/M_ContentWindow.uasset" 442
+"../../../Engine/Content/VREditor/UI/SM_ContentWindow_01.uasset" 443
+"../../../Engine/Content/VREditor/UI/KeyDiskMaterial.uasset" 444
+"../../../Engine/Content/VREditor/UI/DiscMaterial.uasset" 445
+"../../../Engine/Content/VREditor/UI/SM_Radial_Disk.uasset" 446
+"../../../Engine/Content/VREditor/UI/ArrowMaterial.uasset" 447
+"../../../Engine/Content/VREditor/UI/SM_Radial_Pointer.uasset" 448
+"../../../Engine/Content/VREditor/WorldMovementGrid/SimpleGrid.uasset" 449
+"../../../Engine/Content/VREditor/WorldMovementGrid/GridMaterial.uasset" 450
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 451
+"../../../Engine/Content/VREditor/WorldMovementGrid/GridPostProcess.uasset" 452
+"../../../Engine/Content/EditorLandscapeResources/FlattenHeightMat.uasset" 453
+"../../../Engine/Content/VREditor/WorldMovementGrid/PlaneMesh.uasset" 454
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 455
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 456
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 457
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 458
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 459
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 460
+"../../Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneTexture.uasset" 461
+"../../Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneMaterial.uasset" 462
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uasset" 463
+"../../Plugins/Runtime/AppleARKit/Content/ARKitCameraMaterial.uasset" 464
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 465
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 466
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 467
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 468
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 469
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 470
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 471
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 472
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 473
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 474
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 475
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 476
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 477
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 478
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Blueprints/LaserMejorado.uasset" 479
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/aaa_BuiltData.uasset" 480
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 481
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/aaa.umap" 482
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" 483
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Blueprints/CheckPoint.uasset" 484
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Blueprints/SwitchDoor.uasset" 485
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Blueprints/TextSystem/TextSystemTest.uasset" 486
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Blueprints/TextSystem/TextTrigger.uasset" 487
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset" 488
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/FirstPerson/Meshes/CubeMaterialOverride.uasset" 489
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" 490
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Blueprints/Effects/CameraEffects/cameraShakes.uasset" 491
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Blueprints/Effects/CameraEffects/CameraShakeTrigger.uasset" 492
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/FirstPersonBP/Maps/Go2.umap" 493
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Blueprints/Capture/MainMenu.umap" 494
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Blueprints/Capture/StudioMaterial.uasset" 495
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Materials/ChromaticBlackFloor.uasset" 496
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 497
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Blueprints/Capture/TextureRenderTarget.uasset" 498
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Architecture/Floor_400x400.uasset" 499
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Blueprints/Capture/CaptureBlueprint.uasset" 500
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Blueprints/Capture/Other/MainMenuTest_BuiltData.uasset" 501
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Audio/Music/MainTrack_Fixed.uasset" 502
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Blueprints/Capture/Other/Fader.uasset" 503
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Blueprints/Capture/CapturedMaterial.uasset" 504
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Textures/AlienMetal/Abstract_005_NORM.uasset" 505
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Textures/AlienMetal/Abstract_005_SPEC.uasset" 506
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Blueprints/Capture/Other/LevelSelect.uasset" 507
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Blueprints/Capture/Other/MainM.uasset" 508
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Blueprints/Capture/Other/MainMenuTest.umap" 509
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Blueprints/SkyboxSpace.uasset" 510
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Blueprints/EndScreenHud.uasset" 511
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 512
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Blueprints/MenuPawn.uasset" 513
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/MenuGameMode.uasset" 514
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Levels/EndScreen_BuiltData.uasset" 515
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Textures/Nebula4K.uasset" 516
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Materials/SkyboxSpaceMaterial.uasset" 517
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Audio/Music/MainTrackCue.uasset" 518
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Levels/EndScreen.umap" 519
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/Blueprints/DoorOpen.uasset" 520
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 521
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Materials/TestGlow.uasset" 522
+"../../../Engine/Content/BasicShapes/Cube.uasset" 523
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/Blueprints/Laserq.uasset" 524
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/ExternalCurves/DoorDown.uasset" 525
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/ExternalCurves/DoorUp.uasset" 526
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Levels/Gemu_BuiltData.uasset" 527
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Materials/BasicMetal.uasset" 528
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Materials/BlueGlow.uasset" 529
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Materials/ChromaticWhiteFloor.uasset" 530
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Materials/ChromaticWhiteWall.uasset" 531
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Textures/AlienMetal/Abstract_005_COLOR.uasset" 532
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Textures/AlienMetal/Abstract_005_DISP.uasset" 533
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Materials/M_AlienMetal.uasset" 534
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Materials/MateBlackWalls.uasset" 535
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Textures/Plastic_001_ROUGH.uasset" 536
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Materials/OrangeBasic.uasset" 537
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Materials/OrangeGlow.uasset" 538
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Textures/plutomap1k.uasset" 539
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Materials/Planet01.uasset" 540
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Materials/RedButton.uasset" 541
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Materials/WhiteGlow.uasset" 542
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Materials/WhitePlastic.uasset" 543
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Materials/WhiteWalls.uasset" 544
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Materials/WhiteWalls1.uasset" 545
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_MacroVariation.uasset" 546
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 547
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/Test_Materials/Component_Material/05/Plane__Gloss_.uasset" 548
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/Test_Materials/Component_Material/05/Plane_albedo.uasset" 549
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/Test_Materials/Component_Material/05/Plane_normal.uasset" 550
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/Test_Materials/Component_Material/05/Plane_roughness.uasset" 551
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/Test_Materials/Component_Material/05/Plane_specular.uasset" 552
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/Test_Materials/Test_Material_05.uasset" 553
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Fresnel_Function.uasset" 554
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Materials/BasicGlass02.uasset" 555
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Materials/BasicGlassInstance.uasset" 556
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 557
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Audio/Music/End_Fixed.uasset" 558
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Audio/Music/EndTrackCue.uasset" 559
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Materials/YellowGlow.uasset" 560
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Materials/YellowMetal.uasset" 561
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Meshes/Box1.uasset" 562
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Meshes/box2.uasset" 563
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Meshes/box4.uasset" 564
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Meshes/box5.uasset" 565
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Meshes/CargoBayGlassWall01.uasset" 566
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Meshes/CargoBayGlassWall02.uasset" 567
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Meshes/CorridorDoorDown.uasset" 568
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Meshes/CorridorDoorUp.uasset" 569
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Meshes/CorridorLightRect_600.uasset" 570
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Meshes/CorridorLightRect_Medium.uasset" 571
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Meshes/WhiteRoom_Ceiling.uasset" 572
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Textures/Wood_Diffuse_1k.uasset" 573
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Textures/Wood_Normal_1k.uasset" 574
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Textures/Wood_Specular_1k.uasset" 575
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Materials/DarkWood.uasset" 576
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Meshes/WhiteRoom_Floor.uasset" 577
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Meshes/WhiteRoom_Wall_Back.uasset" 578
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Meshes/WhiteRoom_Wall_Left.uasset" 579
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Meshes/WhiteRoom_Wall_Right.uasset" 580
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Frame_M.uasset" 581
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Frame_N.uasset" 582
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Props/Materials/M_Frame.uasset" 583
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Props/SM_DoorFrame.uasset" 584
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Lamp_M.uasset" 585
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Lamp_N.uasset" 586
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Props/Materials/M_Lamp.uasset" 587
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 588
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/Test_Materials/test.uasset" 589
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Levels/Gemu.umap" 590
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Levels/LevelTemplate_BuiltData.uasset" 591
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Levels/LevelTemplate.umap" 592
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Levels/MainMenu_BuiltData.uasset" 593
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Levels/MainMenu.umap" 594
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Blueprints/Laser.uasset" 595
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/GameContent/Blueprints/MovingPlatfromNoButton.uasset" 596
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/Levels/DelcioLevel_BuiltData.uasset" 597
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 598
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 599
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Gradinet_01.uasset" 600
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 601
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 602
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/Levels/DelcioLevel.umap" 603
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 604
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 605
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 606
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 607
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 608
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 609
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 610
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 611
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 612
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 613
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 614
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 615
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 616
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Materials/M_AssetPlatform.uasset" 617
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 618
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 619
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 620
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 621
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 622
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 623
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 624
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 625
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Maps/Advanced_Lighting.umap" 626
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 627
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 628
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 629
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 630
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 631
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Materials/M_Metal_Copper.uasset" 632
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Statue_M.uasset" 633
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Statue_N.uasset" 634
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 635
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 636
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Props/SM_Chair.uasset" 637
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Props/Materials/M_Statue.uasset" 638
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Props/SM_Statue.uasset" 639
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_TableRound_M.uasset" 640
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_TableRound_N.uasset" 641
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Props/Materials/M_TableRound.uasset" 642
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Props/SM_TableRound.uasset" 643
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Maps/Minimal_Default.umap" 644
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Audio/Fire01_Cue.uasset" 645
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 646
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 647
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 648
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Water_N.uasset" 649
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 650
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 651
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Particles/P_Fire.uasset" 652
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 653
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Audio/Smoke01_Cue.uasset" 654
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Particles/P_Smoke.uasset" 655
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 656
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 657
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Particles/P_Sparks.uasset" 658
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 659
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Audio/Steam01_Cue.uasset" 660
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Particles/P_Steam_Lit.uasset" 661
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 662
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 663
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 664
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 665
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 666
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 667
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 668
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 669
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 670
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 671
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 672
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 673
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 674
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 675
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 676
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 677
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 678
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 679
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 680
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 681
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 682
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 683
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 684
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 685
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 686
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 687
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 688
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 689
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 690
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 691
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 692
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 693
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 694
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 695
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 696
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 697
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 698
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 699
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 700
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 701
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 702
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 703
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 704
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 705
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 706
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 707
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 708
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 709
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 710
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 711
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 712
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 713
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 714
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 715
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Materials/M_Ground_Grass.uasset" 716
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 717
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 718
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 719
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 720
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 721
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Materials/M_Ground_Moss.uasset" 722
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 723
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 724
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Materials/M_Metal_Gold.uasset" 725
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 726
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Materials/M_Metal_Rust.uasset" 727
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 728
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 729
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Materials/M_Metal_Steel.uasset" 730
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 731
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 732
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 733
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 734
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 735
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 736
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 737
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 738
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Materials/M_Rock_Slate.uasset" 739
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 740
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 741
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 742
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 743
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 744
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 745
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 746
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 747
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 748
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 749
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 750
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Materials/M_Tech_Panel.uasset" 751
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Materials/M_Water_Lake.uasset" 752
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Water_M.uasset" 753
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Materials/M_Water_Ocean.uasset" 754
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 755
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 756
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 757
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 758
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 759
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 760
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 761
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 762
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Materials/M_Wood_Oak.uasset" 763
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 764
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 765
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Materials/M_Wood_Pine.uasset" 766
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 767
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 768
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 769
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Architecture/Wall_400x200.uasset" 770
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 771
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 772
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Audio/Collapse_Cue.uasset" 773
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 774
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 775
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 776
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 777
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Props/MaterialSphere.uasset" 778
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Props/SM_CornerFrame.uasset" 779
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Props/SM_GlassWindow.uasset" 780
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Props/SM_PillarFrame.uasset" 781
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Props/SM_PillarFrame300.uasset" 782
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Props/SM_WindowFrame.uasset" 783
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 784
+"../../../../../../Dick/The Keeper Repo/ProjectC/Content/StarterContent/Maps/StarterMap.umap" 785
+"../../../Engine/Content/Maps/Entry.umap" 786
